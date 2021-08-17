@@ -1,6 +1,6 @@
 # Glycolysis simulations
 
-The file `Glycolysis_simulations.nb` contains all the code used to produce the simulation figures in the paper. 
+The file `Glycolysis_simulations.nb` contains all the code used to produce the simulation figures in the paper [Combined Rapid Injection NMR and Simulation Approach Showing Redox-Dependent Pathway Control in Living Cells](https://pubs.acs.org/doi/full/10.1021/acs.analchem.9b00660) by Pernille R. Jensen et al. 
 
 We use the model by [Smallbone et al](https://febs.onlinelibrary.wiley.com/doi/full/10.1016/j.febslet.2013.06.043) (`MODEL1303260018.xml`) downloaded from the [biomodels](http://www.ebi.ac.uk/biomodels-main/MODEL1303260018) database on 11/1/2019.
 
